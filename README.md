@@ -4,7 +4,7 @@
 
 **[click on an image to watch gameplay trailer.]**
 
-**The Journalist** is a 2D storytelling puzzle game. The story begins in the unknown village named "Jannarith" village which is far away from town. You are a journalist that your boss sent here to promote this village. That is mean you should write a positive news, not the negative one. But this village has something smell fishy. You have to find out what is hidden in this village and whether you write a positive news or a negative news, the consequences is based on your choices.
+**The Journalist** is a 2D storytelling puzzle game. The story begins in the unknown village named “Jannarith” village which is far away from town. You are a journalist that your boss sent here to promote this village. That is mean you should write a positive news, not the negative one. But this village has something smell fishy. You have to find out what is hidden in this village and whether you write a positive news or a negative news, the consequences is based on your choices.
 
 
 # Achievement
