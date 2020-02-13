@@ -24,6 +24,6 @@
 * D : Move Right.
 * Spacebar : Interact with object or people.
 
-# Team Member
-* Pantita Rupsuwan (https://www.facebook.com/Aivanza)
-* Jirajate Jantarawong (me)
+# Team Members
+* Pantita Rupsuwan as an artist and a game designer (https://www.facebook.com/Aivanza)
+* Jirajate Jantarawong as a programmer(me)
