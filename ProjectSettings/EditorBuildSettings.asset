@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu&Loadscene/mainMenu.unity
+    guid: 3386373eb8ab9bd4e916c530b04075c7
+  - enabled: 1
+    path: Assets/Scenes/Menu&Loadscene/loadLevel.unity
+    guid: 22073a09128cf1c44933e5fa78d3115a
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/cutsceneIntro.unity
+    guid: b7b4df75fc75c0b46803369d9dba3258
+  - enabled: 1
+    path: Assets/Scenes/00_TutorialScene/testTut.unity
+    guid: bfc89265c7acda2449588da5719eeb88
+  - enabled: 1
+    path: Assets/Scenes/00_TutorialScene/tut_conclusion.unity
+    guid: b265bc96d00bc9e448d2f3af61f70574
+  - enabled: 1
+    path: Assets/Scenes/00_TutorialScene/tut_finalConclusion2.unity
+    guid: 0e7b8a121ddf4034fa6907386b89dbf4
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/cutsceneBeforeGameplay01.unity
+    guid: 3da313583a704b34a89df1f388c935e9
+  - enabled: 1
+    path: Assets/Scenes/01_Gameplay/mapHome.unity
+    guid: cd6ad28974c658744a7c5c6913a083f0
+  - enabled: 1
+    path: Assets/Scenes/01_Gameplay/mapHomeToSalaUptree.unity
+    guid: 94cabb3536a23f04fbbddfc97c7de144
+  - enabled: 1
+    path: Assets/Scenes/01_Gameplay/mapMazeToTreeBig.unity
+    guid: 7a2439b5343b1d347b0f6d99232e4266
+  - enabled: 1
+    path: Assets/Scenes/01_Gameplay/mapSalaMooBan.unity
+    guid: a8bb27110d1d9aa4cb8fbadd996ee0fb
+  - enabled: 1
+    path: Assets/Scenes/01_Gameplay/mapGarage.unity
+    guid: b88f07391b27fc44b96221eba1ec5429
+  - enabled: 1
+    path: Assets/Scenes/01_Gameplay/mapTreeBig.unity
+    guid: e443f3f07bb14d543938143704d5b285
+  - enabled: 1
+    path: Assets/Scenes/01_Gameplay/mapPB.unity
+    guid: 775a71e701a12754da2d268e59f0f751
+  - enabled: 1
+    path: Assets/Scenes/01_Gameplay/conclusion01.unity
+    guid: 37521330c7d831747b9e0a4f293142aa
+  - enabled: 1
+    path: Assets/Scenes/01_Gameplay/final_conclusion01.unity
+    guid: eefcf286941366d4fbd0bc4e5ac62e2d
+  - enabled: 1
+    path: Assets/Scenes/02_GameplayChap2/c2_00_cutsceneNight01Backup.unity
+    guid: 19033d22927424043b050dd71e4e3113
+  - enabled: 1
+    path: Assets/Scenes/02_GameplayChap2/c2_02_mapNightPuzzle.unity
+    guid: 0adb337461425474faf2e2d62c2da81c
+  - enabled: 1
+    path: Assets/Scenes/02_GameplayChap2/c2_01_mapHomeNight.unity
+    guid: a687238a94048bf4288e306c4a5f90ba
+  - enabled: 1
+    path: Assets/Scenes/02_GameplayChap2/c2_03_mapNight.unity
+    guid: 3c33ed552021d16428d2da2338914f7d
+  - enabled: 1
+    path: Assets/Scenes/02_GameplayChap2/gp2_conclusion.unity
+    guid: ff4363f2281cff84ca7b782c94b5c219
+  - enabled: 1
+    path: Assets/Scenes/02_GameplayChap2/gp2_final_conclusion.unity
+    guid: dae3836bea34b764886661ddbdb6e912
+  - enabled: 1
+    path: Assets/Scenes/02_GameplayChap2/gp2_mapGarage[NotUse].unity
+    guid: a6f30b286239ed941b2366890f56ab6a
+  - enabled: 1
+    path: Assets/Scenes/02_GameplayChap2/gp2_mapHome.unity
+    guid: 39afaa86af0c1c7439c8760a92273ffc
+  - enabled: 1
+    path: Assets/Scenes/02_GameplayChap2/gp2_mapPB.unity
+    guid: e60886225d3da2d4cb303523a3baa5f5
+  - enabled: 1
+    path: Assets/Scenes/02_GameplayChap2/gp2_mapHomeToSalaUptree.unity
+    guid: d03b2e4db3697604b8633f04800df137
+  - enabled: 1
+    path: Assets/Scenes/02_GameplayChap2/gp2_mapSalaMooBan.unity
+    guid: ed741f6303f2e1c43947b974926e86da
+  - enabled: 1
+    path: Assets/Scenes/02_GameplayChap2/gp2_mapTreeBig.unity
+    guid: fe1c000ec799c5948ac30216f6b3e5a7
+  - enabled: 1
+    path: Assets/Scenes/03_GameplayChap3Final/c3_01_mapHomeNight.unity
+    guid: e01459dca9529cf43b5ef138828606e7
+  - enabled: 1
+    path: Assets/Scenes/03_GameplayChap3Final/c3_02_mapNightPuzzle.unity
+    guid: d68468288eaaae541ac5500f33f0da3d
+  - enabled: 1
+    path: Assets/Scenes/03_GameplayChap3Final/c3_03_mapCutscene.unity
+    guid: af2996a7952384346b62e2d5283a4811
+  - enabled: 1
+    path: Assets/Scenes/03_GameplayChap3Final/gp3_conclusion.unity
+    guid: 3c97eea7cc1ab1047bd78a4fae7c107d
+  - enabled: 1
+    path: Assets/Scenes/03_GameplayChap3Final/gp3_mapHome.unity
+    guid: a2c572e285482dd4587643c8436c039e
+  - enabled: 1
+    path: Assets/Scenes/03_GameplayChap3Final/gp3_mapUnderHome.unity
+    guid: 9f7938cce2e25db4dba72fe97d2501bf
+  - enabled: 1
+    path: Assets/Scenes/03_GameplayChap3Final/gp3_mapPB.unity
+    guid: 97961b3442829f94a884bc5337b4af93
+  - enabled: 1
+    path: Assets/Scenes/03_GameplayChap3Final/c3_00_CutsceneShowChapter.unity
+    guid: 2cfd0c7671720724b99de468c9dfdda1
+  - enabled: 1
+    path: Assets/Scenes/02_GameplayChap2/c2_00_cutsceneNight01.unity
+    guid: d3f1953b1947d38468285022574fc9ab
+  - enabled: 1
+    path: Assets/Scenes/EndingScene/Ending1.unity
+    guid: 7f7bd340ca4b9ac4e8814d447a7ced58
+  - enabled: 1
+    path: Assets/Scenes/EndingScene/Ending2.unity
+    guid: 19e4d8f771efc0446b634aad1d16c62f
+  - enabled: 1
+    path: Assets/Scenes/EndingScene/Ending3.unity
+    guid: 3a97bb76811dd214eb88955c864271ec
+  - enabled: 1
+    path: Assets/Scenes/EndingScene/Ending1.unity
+    guid: 7f7bd340ca4b9ac4e8814d447a7ced58
+  - enabled: 1
+    path: Assets/Scenes/EndingScene/Ending2.unity
+    guid: 19e4d8f771efc0446b634aad1d16c62f
+  - enabled: 1
+    path: Assets/Scenes/EndingScene/Ending3.unity
+    guid: 3a97bb76811dd214eb88955c864271ec
+  - enabled: 1
+    path: Assets/Scenes/EndingScene/Thanks4Playing.unity
+    guid: 53c4668bfd76db841a6758cb1a0ae473
+  m_configObjects: {}
