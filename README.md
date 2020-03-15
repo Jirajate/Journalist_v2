@@ -6,6 +6,13 @@
 
 **The Journalist** is a 2D storytelling puzzle game. The story begins in the unknown village named “Jannarith” village which is far away from town. You are a journalist that your boss sent here to promote this village. That is mean you should write a positive news, not the negative one. But this village has something smell fishy. You have to find out what is hidden in this village and whether you write a positive news or a negative news, the consequences is based on your choices.
 
+# Screenshots
+![](https://i.imgur.com/icuWtOH.png)
+![](https://i.imgur.com/DSSOJS8.png)
+![](https://i.imgur.com/fKYyNXQ.png)
+![](https://i.imgur.com/LSwqaUv.png)
+![](https://i.imgur.com/JGd5ANa.png)
+![](https://i.imgur.com/GPdD9I3.png)
 
 # Achievement
 * **Regional Qualified of National Software Contest 2019 in Game Category.**
