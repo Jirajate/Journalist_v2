@@ -32,5 +32,5 @@
 * Spacebar : Interact with object or people.
 
 # Team Members
-* Pantita Rupsuwan (https://www.facebook.com/Aivanza)
-* Jirajate Jantarawong (me)
+* Pantita Rupsuwan as Artist (https://www.facebook.com/Aivanza)
+* Jirajate Jantarawong as Programmer (me)
